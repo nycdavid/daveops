@@ -13,7 +13,7 @@ pickle-email-*.html
 
 # Ignore all logfiles and tempfiles.
 /log/*
-/tmp/*
+k8s-basic-rails/tmp/*
 !/log/.keep
 !/tmp/.keep
 
