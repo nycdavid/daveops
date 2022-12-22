@@ -1,3 +1,5 @@
 #! /usr/bin/env bash
 
-docker build .
+docker build \
+  --tag k8s-basic-rails \
+  .
